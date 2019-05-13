@@ -1,0 +1,38 @@
+@model ASPCoreGroupB.Models.Dosen
+
+@{
+    Layout = "_Layout";
+}
+
+<h2>Detail Dosen</h2>
+<div class="row">
+@if(ViewData["pesan"]!=null){
+    //@ViewData["Pesan"];
+    @Html.Raw(ViewData["pesan"]);  
+}
+</div>
+<a asp-action="Index" class="btn btn-success btn-xs">Lihat Data</a> <br>
+
+<div class="coll-md-6">
+    <form asp-action="Edit">
+        <div class="form-group">
+            <label asp-for="Nik" >NIM</label>
+            <input asp-for="Nik" type="text" readonly="readonly" class="form-control"/>
+        </div>
+        <div class="form-group">
+            <label asp-for="Nama" >Nama</label>
+            <input asp-for="Nama" type="text" class="form-control"/>
+        </div>
+        <div class="form-group">
+            <label asp-for="Alamat" >Alamat</label>
+            <input asp-for="Alamat" type="text" class="form-control"/>
+        </div>
+        <div class="form-group">
+            <label asp-for="Jurusan" >Jurusan</label>
+            <input asp-for="Jurusan" type="text"  class="form-control"/>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Edit" class="btn btn-primary">
+        </div>
+    </form>
+</div>

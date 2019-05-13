@@ -1,0 +1,27 @@
+@{
+    Layout = "_Layout";
+}
+
+<h2>Daftar Dosen</h2>
+<a asp-action="Create" class="btn btn-success btn-xs">Create</a> <br>
+<table class="table table-striped">
+        <tr>
+        <th>Nik</th>
+        <th>Nama</th>
+        <th>Alamat</th>
+        <th>Jurusan</th>
+        <th></th>
+        <th></th>
+        </tr>
+
+    @foreach (var data in Model){
+        <tr>
+            <td>@data.Nik</td>
+            <td>@data.Nama</td>
+            <td>@data.Alamat</td>
+            <td>@data.Jurusan</td>
+            <td><a asp-action="Details" asp-route-id="@data.Nik">details</a> </td>
+            <td><a asp-action="Delete" asp-route-id="@data.Nik">Delete</a></td>
+        </tr>
+    }
+</table>

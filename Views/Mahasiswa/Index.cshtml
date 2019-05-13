@@ -1,0 +1,55 @@
+@{
+    Layout = "_Layout";
+}
+
+<h2> Daftar Mahasiswa</h2><br>
+@if(ViewData["pesan"]!=null){
+    //@ViewData["Pesan"];
+    @Html.Raw(ViewData["pesan"]);  
+}
+</div>
+<br>
+
+<div class="row">
+    <form asp-action="Search" class="form-inline">
+
+        <div class="form-group">
+        <label>Masukan Keyword</label>
+        <input type="Text" name="keyword" placeholder="Masukan keyword" class="form-control"/>
+        </div>
+        <div class="radio">
+        <label><input type="radio" name="cari" value="Nim" >Nim</label>
+        </div>
+        <div class="radio">
+        <label><input type="radio" name="cari" value="Nama">Nama</label>
+        </div>
+        <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+</div>
+<br>
+
+<br>
+<a asp-action="Create" class="btn btn-success btn-xs">Create</a> <br>
+<div class="row">
+<table class="table table-striped">
+    <tr>
+        <th>Nim</th>
+        <th>Nama</th>
+        <th>Email</th>
+        <th>Telp</th>
+        <th></th>
+        <th></th>
+    </tr>
+
+    @foreach (var data in Model){
+        <tr>
+            <td>@data.Nim</td>
+            <td>@data.Nama</td>
+            <td>@data.Email</td>
+            <td>@data.Telp</td>
+            <td><a asp-action="Details" asp-route-id="@data.Nim">details</a> </td>
+            <td><a asp-action="Delete" asp-route-id="@data.Nim">Delete</a></td>
+        </tr>
+    }
+</table>
+</div>

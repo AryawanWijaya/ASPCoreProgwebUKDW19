@@ -1,0 +1,214 @@
+c:\Kuliah\2019\ASPCoreGroupB\bin\Debug\netcoreapp2.2\ASPCoreGroupB.deps.json
+c:\Kuliah\2019\ASPCoreGroupB\bin\Debug\netcoreapp2.2\ASPCoreGroupB.runtimeconfig.json
+c:\Kuliah\2019\ASPCoreGroupB\bin\Debug\netcoreapp2.2\ASPCoreGroupB.runtimeconfig.dev.json
+c:\Kuliah\2019\ASPCoreGroupB\bin\Debug\netcoreapp2.2\ASPCoreGroupB.dll
+c:\Kuliah\2019\ASPCoreGroupB\bin\Debug\netcoreapp2.2\ASPCoreGroupB.pdb
+c:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csprojAssemblyReference.cache
+c:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csproj.CoreCompileInputs.cache
+c:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorAssemblyInfo.cache
+c:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorAssemblyInfo.cs
+c:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\ASPCoreGroupB.AssemblyInfoInputs.cache
+c:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\ASPCoreGroupB.AssemblyInfo.cs
+c:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorTargetAssemblyInfo.cache
+c:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\ASPCoreGroupB.dll
+c:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\ASPCoreGroupB.pdb
+C:\Kuliah\2019\ASPCoreGroupB\bin\Debug\netcoreapp2.2\ASPCoreGroupB.Views.dll
+C:\Kuliah\2019\ASPCoreGroupB\bin\Debug\netcoreapp2.2\ASPCoreGroupB.Views.pdb
+C:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\ASPCoreGroupB.TagHelpers.input.cache
+C:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\ASPCoreGroupB.TagHelpers.output.cache
+C:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorCoreGenerate.cache
+C:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorTargetAssemblyInfo.cs
+C:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\ASPCoreGroupB.Views.pdb
+C:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csproj.CopyComplete
+C:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+C:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Kuliah\2019\ASPCoreGroupB\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.deps.json
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.runtimeconfig.json
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.runtimeconfig.dev.json
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.dll
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.pdb
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.Views.dll
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.Views.pdb
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csprojAssemblyReference.cache
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csproj.CoreCompileInputs.cache
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorAssemblyInfo.cache
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorAssemblyInfo.cs
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.AssemblyInfoInputs.cache
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.AssemblyInfo.cs
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.TagHelpers.input.cache
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.TagHelpers.output.cache
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorCoreGenerate.cache
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorTargetAssemblyInfo.cache
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorTargetAssemblyInfo.cs
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.Views.pdb
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.dll
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.pdb
+C:\Users\E00\Downloads\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csproj.CopyComplete
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.deps.json
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.runtimeconfig.json
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.runtimeconfig.dev.json
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.dll
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.pdb
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.Views.dll
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.Views.pdb
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csprojAssemblyReference.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csproj.CoreCompileInputs.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorAssemblyInfo.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorAssemblyInfo.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.AssemblyInfoInputs.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.AssemblyInfo.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.TagHelpers.input.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.TagHelpers.output.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorCoreGenerate.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorTargetAssemblyInfo.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorTargetAssemblyInfo.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.Views.pdb
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.dll
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.pdb
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csproj.CopyComplete
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dokter\index.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan5\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dokter\Tampil.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csprojAssemblyReference.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csproj.CoreCompileInputs.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorAssemblyInfo.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorAssemblyInfo.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.AssemblyInfoInputs.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.AssemblyInfo.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.dll
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.pdb
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.deps.json
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.runtimeconfig.json
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.runtimeconfig.dev.json
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.dll
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.pdb
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.Views.dll
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.Views.pdb
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.TagHelpers.input.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.TagHelpers.output.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorCoreGenerate.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dokter\DaftarDokter.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dokter\index.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dokter\Tampil.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Mahasiswa\Index.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorTargetAssemblyInfo.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorTargetAssemblyInfo.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.Views.pdb
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csproj.CopyComplete
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan8\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dosen\index.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.deps.json
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.runtimeconfig.json
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.runtimeconfig.dev.json
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.dll
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.pdb
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.Views.dll
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.Views.pdb
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csprojAssemblyReference.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csproj.CoreCompileInputs.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorAssemblyInfo.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorAssemblyInfo.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.AssemblyInfoInputs.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.AssemblyInfo.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.TagHelpers.input.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.TagHelpers.output.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorCoreGenerate.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dokter\DaftarDokter.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dokter\index.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dokter\Tampil.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dosen\index.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Mahasiswa\Create.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Mahasiswa\Index.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorTargetAssemblyInfo.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorTargetAssemblyInfo.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.Views.pdb
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.dll
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.pdb
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csproj.CopyComplete
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan9\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dosen\create.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csprojAssemblyReference.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csproj.CoreCompileInputs.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorAssemblyInfo.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorAssemblyInfo.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.AssemblyInfoInputs.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.AssemblyInfo.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.dll
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.pdb
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.deps.json
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.runtimeconfig.json
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.runtimeconfig.dev.json
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.dll
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.pdb
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.Views.dll
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.Views.pdb
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.TagHelpers.input.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.TagHelpers.output.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorCoreGenerate.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dokter\DaftarDokter.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dokter\index.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dokter\Tampil.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dosen\create.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dosen\index.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Mahasiswa\Create.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Mahasiswa\Index.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorTargetAssemblyInfo.cache
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorTargetAssemblyInfo.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.Views.pdb
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csproj.CopyComplete
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Mahasiswa\Details.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dosen\Details.g.cshtml.cs
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.deps.json
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.runtimeconfig.json
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.runtimeconfig.dev.json
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.dll
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.pdb
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.Views.dll
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\bin\Debug\netcoreapp2.2\ASPCoreGroupB.Views.pdb
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csprojAssemblyReference.cache
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csproj.CoreCompileInputs.cache
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorAssemblyInfo.cache
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorAssemblyInfo.cs
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.AssemblyInfoInputs.cache
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.AssemblyInfo.cs
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.TagHelpers.input.cache
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.TagHelpers.output.cache
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorCoreGenerate.cache
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dokter\DaftarDokter.g.cshtml.cs
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dokter\index.g.cshtml.cs
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dokter\Tampil.g.cshtml.cs
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dosen\create.g.cshtml.cs
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dosen\Details.g.cshtml.cs
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Dosen\index.g.cshtml.cs
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Mahasiswa\Create.g.cshtml.cs
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Mahasiswa\Details.g.cshtml.cs
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Mahasiswa\Index.g.cshtml.cs
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorTargetAssemblyInfo.cache
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.RazorTargetAssemblyInfo.cs
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.Views.pdb
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.dll
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.pdb
+E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csproj.CopyComplete
