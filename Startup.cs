@@ -24,6 +24,7 @@ namespace ASPCoreGroupB
             //kemudian didaftarkan seperti gambar diatas
             //dan yang dipanggil di controller adalah IMahasiswanya
             services.AddScoped<IDosen,DosenDAL>();
+            services.AddScoped<IPengguna,PenggunaDAL>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
