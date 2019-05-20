@@ -23,8 +23,13 @@
         </div>
         <div class="form-group">
             <label asp-for="Password" >Password</label>
-            <input asp-for="Password" type="text" class="form-control"/>
+            <input asp-for="Password" type="password" class="form-control"/>
             <span asp-validation-for="Password" class="text-danger" />
+        </div>
+           <div class="form-group">
+            <label asp-for="Repassword" >Repassword</label>
+            <input asp-for="Repassword" type="password" class="form-control"/>
+            <span asp-validation-for="Repassword" class="text-danger" />
         </div>
         <div class="form-group">
             <label asp-for="Aturan" >Aturan</label>

@@ -12,6 +12,10 @@ namespace ASPCoreGroupB.Models{
         public string Password { get; set; }
 
         [Required]
+        [Compare("Password")]
+        public string Repassword { get; set; }
+
+        [Required]
         public string Aturan { get; set; }
         public string Nama { get; set; }
         public string Telp { get; set; }
