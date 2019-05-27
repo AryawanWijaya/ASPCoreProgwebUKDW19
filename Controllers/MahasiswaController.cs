@@ -22,6 +22,26 @@ namespace ASPCoreGroupB.Controllers{
                 return true;
             }
         }
+        private bool cekPengguna(){
+                if(HttpContext.Session.GetString("aturan")=="Admin"){
+                return true;
+                }else{
+                return false;
+                }
+            }
+
+         private bool CekAturan(string aturan)
+        {
+            if (HttpContext.Session.GetString("aturan") != null &&
+            HttpContext.Session.GetString("aturan") == aturan)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
 
         public IActionResult Index()
         {
@@ -35,7 +55,22 @@ namespace ASPCoreGroupB.Controllers{
         }
 
         public IActionResult Create(){
-            return View();
+            if(!IsLogin()){
+                TempData["pesan"] = "<span class='alert alert-danger'>Silahkan Login terlebih dahulu untuk mengakses halaman mahasiswa.</span>";
+                return RedirectToAction("Login","Pengguna");
+            }else {
+                if (!CekAturan("Admin"))
+                {
+                    TempData["pesan"] = "<span class='alert alert-danger'>Silahkan login sebagai admin untuk create mahasiswa</span>";
+                    return RedirectToAction("Login", "Pengguna");
+                }
+
+            }
+               return View();
+        
+            
+          
+
         }
 
         public IActionResult Delete(string id){
