@@ -251,3 +251,4 @@ D:\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.Views.pdb
 D:\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.dll
 D:\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.pdb
 D:\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csproj.CopyComplete
+D:\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Upload\UploadFile.g.cshtml.cs
