@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.DependencyInjection.Extensions;
 
 namespace ASPCoreGroupB
 {
@@ -18,6 +19,10 @@ namespace ASPCoreGroupB
         {
             //menambahkan mvc
             services.AddMvc();
+           services.AddSession(options=>{
+                options.IdleTimeout = TimeSpan.FromMinutes(2);
+            });
+             services.TryAddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddScoped<IMahasiswa,MahasiswaDAL>();//sebenarnya yang dipanggil adalah MahasiswaDAL di controller
             // cmn krn di daftarkan pake AddScoped maka bisa memakai IMahasiswanya yang dipakai di controller
             // akur kerja: IMahasiswa di implement dg MahasiswaDAL(inheritance)
@@ -34,11 +39,14 @@ namespace ASPCoreGroupB
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            //menambhaknan session
+            app.UseSession();
             //menambahkan file static di wwwwroot
             app.UseStaticFiles();
             //untuk menambahkan mvc pattern
             app.UseMvcWithDefaultRoute();
+            
+            
 
             /* app.Run(async (context) =>
             {

@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using ASPCoreGroupB.DAL;
 using ASPCoreGroupB.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ASPCoreGroupB.Controllers{
@@ -14,7 +15,21 @@ namespace ASPCoreGroupB.Controllers{
             _mhs = mhs;
         }
 
-        public IActionResult index(){
+          private bool IsLogin(){
+            if(HttpContext.Session.GetString("username")==null){
+                return false;
+            }else {
+                return true;
+            }
+        }
+
+        public IActionResult Index()
+        {
+            if(!IsLogin()){
+                TempData["pesan"] = "<span class='alert alert-danger'>Silahkan Login terlebih dahulu untuk mengakses halaman mahasiswa.</span>";
+                return RedirectToAction("Login","Pengguna");
+            }
+
             var data = _mhs.GetAll();
             return View(data);
         }

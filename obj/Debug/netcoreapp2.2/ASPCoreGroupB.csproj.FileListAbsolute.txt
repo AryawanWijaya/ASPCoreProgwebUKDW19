@@ -213,3 +213,4 @@ E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroup
 E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.pdb
 E:\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\ASPCoreGroupB.csproj.CopyComplete
 E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Pengguna\Registrasi.g.cshtml.cs
+E:\Ary Doc Duta Wacana\Semester4\8_ProgWeb_Erick\Materi\Materi_pertemuan10\ASPCoreVSCodeB-master\obj\Debug\netcoreapp2.2\Razor\Views\Pengguna\Login.g.cshtml.cs
