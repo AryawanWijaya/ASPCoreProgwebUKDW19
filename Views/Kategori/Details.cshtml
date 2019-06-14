@@ -1,0 +1,39 @@
+@model ASPCoreGroupB.Models.Kategori
+
+@{
+    Layout = "_Layout";
+}
+
+<h2>Detail Kategori</h2>
+<div class="row">
+@if(ViewData["pesan"]!=null){
+    //@ViewData["Pesan"];
+    @Html.Raw(ViewData["pesan"]);  
+}
+</div>
+<a asp-action="Index" class="btn btn-success btn-xs">Lihat Seluruh Kategori</a> <br>
+
+<div class="coll-md-6">
+    <form asp-action="Edit">
+        <div asp-validation-summary="ModelOnly" class="text-danger" />
+        <div class="form-group">
+            <label asp-for="KategoriID" >Kategori ID</label>
+            <input asp-for="KategoriID" type="text" readonly="readonly" class="form-control"/>
+            
+        </div>
+        
+        <div class="form-group">
+            <label asp-for="KategoriName" >Nama Kategori</label>
+            <input asp-for="KategoriName" type="text" class="form-control"/>
+            <span asp-validation-for="KategoriName" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Edit" class="btn btn-primary">
+        </div>
+    </form>
+</div>
+
+@section Scripts{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+}

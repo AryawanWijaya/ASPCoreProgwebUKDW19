@@ -1,5 +1,5 @@
 {
-  "FilePath": "e:\\Ary Doc Duta Wacana\\Semester4\\8_ProgWeb_Erick\\Materi\\Materi_pertemuan10\\ASPCoreVSCodeB-master\\ASPCoreGroupB.csproj",
+  "FilePath": "e:\\Ary Doc Duta Wacana\\Semester4\\8_ProgWeb_Erick\\TAS\\TAS_ARY\\ASPCoreProgwebUKDW19\\ASPCoreGroupB.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2764,8 +2764,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Pengguna\\Login.cshtml",
+      "TargetPath": "Views\\Pengguna\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Dokter\\index.cshtml",
       "TargetPath": "Views\\Dokter\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Artikel\\Details.cshtml",
+      "TargetPath": "Views\\Artikel\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Kategori\\Details.cshtml",
+      "TargetPath": "Views\\Kategori\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2776,6 +2791,16 @@
     {
       "FilePath": "Views\\Home\\About.cshtml",
       "TargetPath": "Views\\Home\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Upload\\UploadFile.cshtml",
+      "TargetPath": "Views\\Upload\\UploadFile.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Kategori\\Create.cshtml",
+      "TargetPath": "Views\\Kategori\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2794,6 +2819,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Pengguna\\Registrasi.cshtml",
+      "TargetPath": "Views\\Pengguna\\Registrasi.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Mahasiswa\\Index.cshtml",
       "TargetPath": "Views\\Mahasiswa\\Index.cshtml",
       "FileKind": "mvc"
@@ -2809,8 +2839,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Kategori\\index.cshtml",
+      "TargetPath": "Views\\Kategori\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Artikel\\Create.cshtml",
+      "TargetPath": "Views\\Artikel\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Dosen\\create.cshtml",
       "TargetPath": "Views\\Dosen\\create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Artikel\\Index.cshtml",
+      "TargetPath": "Views\\Artikel\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

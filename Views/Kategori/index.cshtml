@@ -1,0 +1,30 @@
+@{
+    Layout = "_Layout";
+}
+
+<h2> Daftar Kategori</h2><br>
+@if(ViewData["pesan"]!=null){
+    //@ViewData["Pesan"];
+    @Html.Raw(ViewData["pesan"]);  
+}
+
+<a asp-action="Create" class="btn btn-success btn-xs">Tambah data baru</a> <br>
+<div class="row">
+<table class="table table-striped">
+    <tr>
+        <th>Kategori ID</th>
+        <th>Nama Kategori</th>
+        <th></th>
+        <th></th>
+    </tr>
+
+    @foreach (var data in Model){
+        <tr>
+            <td>@data.KategoriID</td>
+            <td>@data.KategoriName</td>
+            <td><a asp-action="Details" asp-route-id="@data.KategoriID">details</a> </td>
+            <td><a asp-action="Delete" asp-route-id="@data.KategoriID">Delete</a></td>
+        </tr>
+    }
+</table>
+</div>

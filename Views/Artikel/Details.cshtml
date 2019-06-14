@@ -1,0 +1,63 @@
+@model ASPCoreGroupB.Models.Artikel
+
+@{
+    Layout = "_Layout";
+}
+
+<h2>Detail Artikel</h2>
+<div class="row">
+@if(ViewData["pesan"]!=null){
+    //@ViewData["Pesan"];
+    @Html.Raw(ViewData["pesan"]);  
+}
+</div>
+<a asp-action="Index" class="btn btn-success btn-xs">Lihat Seluruh Kategori</a> <br>
+
+<div class="coll-md-6">
+    <form asp-action="Edit" enctype="multipart/form-data">  
+        <div asp-validation-summary="ModelOnly" class="text-danger" />
+        <div class="form-group">
+            <label asp-for="ArtikelID" >Artikel ID</label>
+            <input asp-for="ArtikelID" type="text" class="form-control" readonly="readonly"/>
+            <span asp-validation-for="ArtikelID" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <label asp-for="KategoriID" >Kategori ID</label>
+            <input asp-for="KategoriID" type="text" class="form-control"/>
+            <span asp-validation-for="KategoriID" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Judul" >Judul Artikel</label>
+            <input asp-for="Judul" type="text" class="form-control"/>
+            <span asp-validation-for="Judul" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Berita" >Berita</label>
+            <input asp-for="Berita" type="text" class="form-control"/>
+            <span asp-validation-for="Berita" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Tanggal" >Tanggal</label>
+            <input asp-for="Tanggal" type="date" class="form-control"/>
+            <span asp-validation-for="Tanggal" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Gambar" >Gambar</label>
+            <input asp-for="Gambar" type="file" name="file" class="form-control"/>
+            <span asp-validation-for="Gambar" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Username" >Username</label>
+            <input asp-for="Username" type="text" class="form-control"/>
+            <span asp-validation-for="Username" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Submit" class="btn btn-primary">
+        </div>
+    </form>
+</div>
+
+@section Scripts{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+}
